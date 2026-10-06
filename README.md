@@ -62,4 +62,5 @@ Aşağıda geliştirdiğim etkileşimli yapay zekâ ve deneyim tabanlı web uygu
 ### 📬 İletişim
 
 - **GitHub:** [@sevcanncll](https://github.com/sevcanncll)
+- **Linkedin:** [Sevcan Çil](https://www.linkedin.com/in/sevcancil/)
 - Projeler hakkında geri bildirim vermek veya iş birliği yapmak için çekinmeden iletişime geçebilirsiniz!
